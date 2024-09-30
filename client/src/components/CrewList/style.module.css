@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+}
+
+.crewList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+  padding: 0;
+  list-style-type: none;
+}
+
+.crewItem {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+}
+
+.crewItem:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.crewItem img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.crewItem .content {
+  padding: 15px;
+}
+
+.crewItem .nickname {
+  font-weight: 600;
+  font-size: 18px;
+  margin: 10px 0;
+  color: #333;
+}
+
+.crewItem .stack {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.crewNew {
+  width: 100%;
+  height: 40px;
+
+  margin-bottom: 10px;
+
+  border-radius: 0.5rem;
+  background-color: #5f7c5f;
+  color: white;
+
+  font-size: 16px;
+  font-weight: 700;
+}

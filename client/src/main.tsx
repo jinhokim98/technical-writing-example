@@ -3,6 +3,7 @@ import {createRoot} from 'react-dom/client';
 import {RouterProvider} from 'react-router-dom';
 import router from './router';
 import worker from '@mocks/browser';
+import './index.css';
 
 async function deferRender() {
   if (import.meta.env.DEV) return await worker.start();

@@ -8,6 +8,7 @@ export default defineConfig({
   resolve: {
     alias: [
       {find: '@apis', replacement: path.resolve(__dirname, 'src/apis')},
+      {find: '@assets', replacement: path.resolve(__dirname, 'src/assets')},
       {find: '@components', replacement: path.resolve(__dirname, 'src/components')},
       {find: '@constants', replacement: path.resolve(__dirname, 'src/constants')},
       {find: '@mocks', replacement: path.resolve(__dirname, 'src/mocks')},

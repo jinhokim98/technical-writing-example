@@ -1,5 +1,7 @@
+import CrewList from '@components/CrewList';
+
 const Home = () => {
-  return <></>;
+  return <CrewList />;
 };
 
 export default Home;

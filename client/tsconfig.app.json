@@ -23,16 +23,12 @@
     "baseUrl": "./src",
     "paths": {
       "@apis/*": ["./apis/*"],
-      "@appTypes/*": ["./appTypes/*"],
       "@assets/*": ["./assets/*"],
       "@components/*": ["./components/*"],
       "@constants/*": ["./constants/*"],
-      "@hooks/*": ["./hooks/*"],
       "@mocks/*": ["./mocks/*"],
       "@pages/*": ["./pages/*"],
-      "@queries/*": ["./queries/*"],
-      "@styles/*": ["./styles/*"],
-      "@utils/*": ["./utils/*"]
+      "@typedef/*": ["./typedef/*"]
     }
   },
   "include": ["src"]

@@ -3,48 +3,56 @@
     "nickname": "쿠키",
     "stack": "frontend",
     "likes": 3,
-    "isLike": false
+    "isLike": false,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   },
   {
     "nickname": "토다리",
     "stack": "frontend",
     "likes": 5,
-    "isLike": true
+    "isLike": true,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   },
   {
     "nickname": "웨디",
     "stack": "frontend",
     "likes": 6,
-    "isLike": false
+    "isLike": false,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   },
   {
     "nickname": "소하",
     "stack": "frontend",
     "likes": 1,
-    "isLike": true
+    "isLike": true,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   },
   {
     "nickname": "망쵸",
     "stack": "backend",
     "likes": 1,
-    "isLike": true
+    "isLike": true,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   },
   {
     "nickname": "이상",
     "stack": "backend",
     "likes": 10,
-    "isLike": false
+    "isLike": false,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   },
   {
     "nickname": "감자",
     "stack": "backend",
     "likes": 7,
-    "isLike": false
+    "isLike": false,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   },
   {
     "nickname": "백호",
     "stack": "backend",
     "likes": 8,
-    "isLike": false
+    "isLike": false,
+    "image": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Ftechcourse-storage.s3.ap-northeast-2.amazonaws.com%2Fwooteco.webp&blockId=202af4c7-6ac9-4e3a-bb4e-6a94cca88d48"
   }
 ]
