@@ -1,5 +1,6 @@
-import crewHandler from './handlers/hello';
+import crewHandler from './handlers/crew';
+import hierarchyHandler from './handlers/Hierarchy';
 
-const handlers = [...crewHandler];
+const handlers = [...crewHandler, ...hierarchyHandler];
 
 export default handlers;

@@ -1,4 +1,4 @@
-import {Crew} from './../../typedef/ServiceType';
+import {Crew} from '../../typedef/ServiceType';
 import {http, HttpResponse} from 'msw';
 import crewList from '../data/crew.json';
 import BASE_URL from '../../constants/baseUrl';

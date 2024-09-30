@@ -5,3 +5,7 @@ export type Crew = {
   isLike: boolean;
   image: string;
 };
+
+export type Name = {
+  name: string;
+};
